@@ -1,6 +1,6 @@
-# MY PORTFOLIO
 
-### About My Self
+
+# Hi! I'm Janbless Mendoza
 
 - Janbless Mendoza
 - 19 Years Old
