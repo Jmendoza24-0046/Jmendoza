@@ -29,7 +29,7 @@
 
 ## 📖 My Projects
 
-- Midterm Task 1: [Data Cleaning and Preparation using Excel](Midterm&Task&1/task1.md).
+- Midterm Task 1: [Data Cleaning and Preparation using Excel]((Midterm%Task%1/task1.md)).
 - Midterm Task 2: [Data Cleaning and Prepartion using Excel](Midterm%task%201)
 
 
