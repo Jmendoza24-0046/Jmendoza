@@ -1,3 +1,5 @@
 Atitle: Janbless Mendoza 
 logo: images/PP.jpg
 theme: jekyll-theme-minimal
+remote_theme: pages-themes/modernist@v0.2.0
+plugins: jekyll-theme-slate
