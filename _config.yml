@@ -1,5 +1,5 @@
 title: EDM Portfolio
-logo : images/PP.jpg
+#logo : images/PP.jpg
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-theme-slate
