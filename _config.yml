@@ -1,5 +1,4 @@
 title: EDM Portfolio
 logo : images/PP.jpg
 themes: jekyll-theme-cayman-dark
-plugins:
-  - jekyll-theme-slate
+
