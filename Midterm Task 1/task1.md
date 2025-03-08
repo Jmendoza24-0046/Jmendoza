@@ -18,7 +18,7 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 
 
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
-<img src="images/After.png" alt="Alt Text" width="400" height="300">
+<img src="Midterm Task 1/Images/After.png" alt="Alt Text" width="400" height="300">
 
 
 
