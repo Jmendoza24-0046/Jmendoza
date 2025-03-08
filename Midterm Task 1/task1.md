@@ -1,4 +1,5 @@
 
+
 # Midterm Lab Task 1 - Data Cleaning and Preparation using Excel
 For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data CLeaning and Preparation 
 ## STEP 1 Data Cleaning process
@@ -13,16 +14,13 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - Perform 3 NF
 - Mapped the Normalized tables as a Physical Data Model
 ## STEP 3 Here's the screenshot of my output before I started data cleaning (See screenshot)
-<img src="Midterm Task 1/Images/Before.png" alt="Alt Text" width="400" height="300">
+![image](https://github.com/user-attachments/assets/154cad1d-2288-4df3-a12a-c27ad04cfc91)
 
 
 
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
-<img src="Midterm Task 1/Images/After.png" alt="Alt Text" width="400" height="300">
-
+![image](https://github.com/user-attachments/assets/d773b755-377d-4678-b035-23ff41dc9ba8)
 
 
 ## Here's the Physical Data Model
-<img src="Midterm Task 1/Images/Datam.png" alt="Alt Text" width="400" height="300">
-
-
+![image](https://github.com/user-attachments/assets/638cc7e9-1b64-4cca-961a-2d82f2eb0503)
