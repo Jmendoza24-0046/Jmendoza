@@ -23,6 +23,6 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 
 
 ## Here's the Physical Data Model
-<img src="images/Datam.png" alt="Alt Text" width="400" height="300">
+<img src="Midterm Task 1/Images/Datam.png" alt="Alt Text" width="400" height="300">
 
 
