@@ -29,4 +29,4 @@
 
 ## 📖 My Projects
 
-- Midterm Task 1: [Data Cleaning and Preparation using Excel](Midterm%20Task%201/README.md).
+- Midterm Task 1: [Data Cleaning and Preparation using Excel](https://github.com/Jmendoza24-0046/Jmendoza/blob/main/Midterm%20Task%201/task1.md)
