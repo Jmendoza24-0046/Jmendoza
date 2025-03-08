@@ -18,9 +18,11 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 
 
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
-![image](https://github.com/user-attachments/assets/d773b755-377d-4678-b035-23ff41dc9ba8)
+<img src="images/one.JPG" alt="Alt Text" width="400" height="300">
+
 
 
 ## Here's the Physical Data Model
-![image](https://github.com/user-attachments/assets/638cc7e9-1b64-4cca-961a-2d82f2eb0503)
+<img src="images/one.JPG" alt="Alt Text" width="400" height="300">
+
 
