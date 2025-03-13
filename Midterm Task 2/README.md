@@ -78,7 +78,8 @@ in
 
 
 ### Sal By Role Type Dup
-![image](https://github.com/user-attachments/assets/b34c7f35-c2b3-49ec-a0a2-2da404883eb3)
+![image](https://github.com/user-attachments/assets/62fe2655-d5b2-4698-b27a-c916a43c1dd9)
+
 
 
 ### Sal By Role Size Ref
