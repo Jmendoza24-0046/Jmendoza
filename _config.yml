@@ -1,4 +1,5 @@
-title: Janbless
-logo: images/PP.jgp
-themes: pages-themes/minimal@v0.2.0
+title: Ashram Portfolio
+logo : images/PP.jpg
+show_downloads: true
+themes: jekyll-theme-minimal
 
