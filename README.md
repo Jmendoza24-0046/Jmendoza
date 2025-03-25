@@ -31,4 +31,5 @@
 
 - Midterm Task 1: [Data Cleaning and Preparation using Excel](https://github.com/Jmendoza24-0046/Jmendoza/blob/main/Midterm%20Task%201/task1.md)
 - Midterm Task 2: [Data Cleaning and Transformation using POWER QUERY](https://github.com/Jmendoza24-0046/Jmendoza/blob/main/Midterm%20Task%202/Task2.md)
+- Midterm Task 3: [Pivot Table and Dashboard](https://github.com/Jmendoza24-0046/Jmendoza/blob/main/Midterm%20Task%203/task%203)
 
