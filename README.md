@@ -35,5 +35,5 @@
 - Midterm Task 3: [Pivot Table and Dashboard](https://github.com/Jmendoza24-0046/Jmendoza/blob/main/Midterm%20Task%203/task%203)
 
 ### FINAL TASKS
--Final Task 1: [Events Management DB]
+- Final Task 1: [Events Management DB](https://github.com/Jmendoza24-0046/Jmendoza/blob/main/Final%20Lab%20Task%201/README.md)
 
