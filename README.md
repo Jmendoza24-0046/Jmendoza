@@ -36,4 +36,5 @@
 
 ### FINAL TASKS
 - Final Task 1: [Events Management DB](https://github.com/Jmendoza24-0046/Jmendoza/blob/main/Final%20Lab%20Task%201/README.md)
+- Final Task 2: [Transforming ER Model to Relational Tables](https://github.com/Jmendoza24-0046/Jmendoza/blob/main/Final%20Lab%20Task%202/README.md)
 
